@@ -1,0 +1,7 @@
+streamlit
+groq
+faiss-cpu
+fitz
+dotenv
+numpy
+sentence_transformers
